@@ -1,0 +1,27 @@
+{
+  "name": "blog-dwn",
+  "version": "1.0.0",
+  "description": "Blog about javascript, html and CDD news",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LaetitiaChallant/blogDWN.git"
+  },
+  "author": "LaetitiaChallant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LaetitiaChallant/blogDWN/issues"
+  },
+  "homepage": "https://github.com/LaetitiaChallant/blogDWN#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "eslint": "^9.19.0"
+  }
+}
