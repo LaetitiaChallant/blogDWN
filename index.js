@@ -1,3 +1,5 @@
+import "dotenv/config";
+
 import express from "express";
 
 
@@ -9,7 +11,7 @@ app.get("/", (req, res) => {
 });
 
 
-const port = 3001;
+const port = process.env.PORT;
 app.listen(port, () => {
-  console.log(`Server started ar http://localhost:${port}`);
+  console.log(`Server started at http://localhost:${port}`);
 });
