@@ -5,7 +5,7 @@
 ## Présentation
 
 Le blog a un objectif d'entrainement et informatif. A terme il sera associé à mon portfolio.
-Le blog sera composé d'articles triabale par date de modification (date de parution si pas de mise à jour) et par thèmes.
+Le blog sera composé d'articles triable par date de modification (date de parution si pas de mise à jour) et par thèmes.
 
 Je veux également que les lecteurs puissent s'enregistrer pour ajouter des commentaires aux articles. Ces commentaires seront modérer par l'administrateur.
 
@@ -33,3 +33,11 @@ Je veux également que les lecteurs puissent s'enregistrer pour ajouter des comm
 | v1 | En tant qu'administrateur, je veux pouvoir choisir d'afficher ou non le commentaire à un article, afin de le modérer|
 | v1 | En tant qu'administrateur, je veux pouvoir choisir de blacklister un user qui ne respecterai pas la charte du blog|
 | v3 | En tant qu'administrateur, je veux pouvoir voir des statistiques de lecture des articles, afin d'analyser la popularité du contenu|
+
+## MCD
+
+![MCD](./blog-dwn-MCD.svg)
+
+## MLD
+
+![MLD](./blog-dwn-MLD.svg)
